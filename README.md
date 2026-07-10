@@ -29,5 +29,10 @@ The frame is mounted to an ABS sheet that is shaped to my body. The sheet goes o
 ## Additions I may add to this design.
 I am on a time constraint for this project, since I need it done before the 14th. However, I will try my best to incorporate some additional things in this design.
 
+<img width="864" height="555" alt="image" src="https://github.com/user-attachments/assets/ede94309-88f7-4836-ab00-aa9bddd1f7e5" />
+
+This is the first thing I'd add. I want to make the structure of the wings a bit different by adding a bottom portion to it too. As the wing flares out, these portions would slant, creating a really cool silhouette.
+
+
 ## What I Learned
 I learned a lot about the design process in hardware through this project, especially in regards to mechanical sketches. I figured out how to accurately display my project to others and I also learned about the motions behind it. This section will be updated once I finish my build.  
