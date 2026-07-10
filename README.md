@@ -33,6 +33,9 @@ I am on a time constraint for this project, since I need it done before the 14th
 
 This is the first thing I'd add. I want to make the structure of the wings a bit different by adding a bottom portion to it too. As the wing flares out, these portions would slant, creating a really cool silhouette.
 
+<img width="784" height="401" alt="Flared wing with addition (1)" src="https://github.com/user-attachments/assets/a44a6cd3-56fa-4796-a315-b924b480fa02" />
+
+I'd also like to see if I could add a wing decoration for my eyes that can turn towards and away from my face, but I'll probably try to do that after the event.
 
 ## What I Learned
 I learned a lot about the design process in hardware through this project, especially in regards to mechanical sketches. I figured out how to accurately display my project to others and I also learned about the motions behind it. This section will be updated once I finish my build.  
