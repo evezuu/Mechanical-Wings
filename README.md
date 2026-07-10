@@ -38,4 +38,4 @@ This is the first thing I'd add. I want to make the structure of the wings a bit
 I'd also like to see if I could add a wing decoration for my eyes that can turn towards and away from my face, but I'll probably try to do that after the event.
 
 ## What I Learned
-I learned a lot about the design process in hardware through this project, especially in regards to mechanical sketches. I figured out how to accurately display my project to others and I also learned about the motions behind it. This section will be updated once I finish my build.  
+I learned a lot about the design process in hardware through this project, especially in regards to mechanical sketches. I figured out how to accurately display my project to others and I also learned about the motions behind it. This section will be updated a lot more once I finish my build.  
