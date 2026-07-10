@@ -11,7 +11,7 @@ This project is a wearable set of motorized animatronic wings. It has a wearable
 
 Here are a few of my sketches!  
 
-<img width="3011" height="2370" alt="Sketches with Labels" src="https://github.com/user-attachments/assets/74e25a61-4b2b-45c2-a684-d1ef176fd84a" />  
+<img width="3011" height="2370" alt="Retracted Front   Back View + motion display" src="https://github.com/user-attachments/assets/29fd4466-ad58-4f4f-a79d-13c408e075f4" />
 
 The wing design can be easily modified and expanded for future wing configurations.  
 
