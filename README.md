@@ -35,6 +35,8 @@ This is the first thing I'd add. I want to make the structure of the wings a bit
 
 <img width="533" height="401" alt="Flared wing with addition (1)" src="https://github.com/user-attachments/assets/87dda4a9-602d-4044-8e2f-f3d5639135a7" />
 
+
+
 I'd also like to see if I could add a wing decoration for my eyes that can turn towards and away from my face, but I'll probably try to do that after the event.
 
 ## What I Learned
