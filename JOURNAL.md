@@ -5,7 +5,7 @@
 **Project:** Mechanical Wings  
 **Design Time:** Approximately 42 hours  
 
-This journal documents the design process behind the development of my wings. During this, I researching existing mechanisms, developed a functional concept, selected materials, planned the mechanical movement system, and learned about how the wiring works. The goal of the project was to create a pair of wings that could mechanically open and close through motorized movement.
+This journal documents the design process behind the development of my wings. During this, I researching existing mechanisms, developed a functional concept, selected materials, planned the mechanical movement system, and learned about how the wiring works. The goal of the project was to create a pair of wings that could mechanically flare and retract through motorized movement.
 
 ## Research and Initial Analysis (10 hours)
 
