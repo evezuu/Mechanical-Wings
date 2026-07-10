@@ -34,7 +34,7 @@ For about an hour, I cross-referenced all my notes and tutorials to come up with
 
 ## Structural Design and Hardware Planning (9.5 hours)
 
-Here is where I put in the most amount of time. I started to actually sketch what I wanted to build. Although I thought this would be easy, it was not.
+I started to actually sketch what I wanted to build. Although I thought this would be easy, it was not.
 
 <img width="3000" height="2402" alt="image" src="https://github.com/user-attachments/assets/935c4751-e57e-4ed0-bb7e-e92e0cad489f" />
 <img width="3011" height="2370" alt="image" src="https://github.com/user-attachments/assets/dbe91e1f-7ed7-438b-835a-6bccceae2687" />
