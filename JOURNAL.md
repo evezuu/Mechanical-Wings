@@ -104,20 +104,27 @@ I took about 1.5 hours to make a list of everything I needed. This took me a lon
 
 Finding all of the items and where I could get them from took me around 3.5 hours. I had to compare and contrast a lot of brands when trying to buy tools while also looking for the cheapest items. Finding materials was also hard because a lot of them shipped too late, so I had to settle with questionable items. I didn't have much trouble buying electronics, but buying things like cloth took me a long time to figure out.
 
+Refer to my BOM to see all of the stuff I had to find. It'll tell you why this took so long.
+
 ## Final Design Summary + Additional Concepts (3.5 hours)
 
-I had finally finished my whole design concept, which consisted of a wearable backpack-mounted animatronic wing system powered by two 12V linear actuators. The mechanical system used PVC tubing, ABS mounting components, and linkage mechanisms to create controlled wing movement. The electrical system used a rechargeable 12V battery, wireless motor controller, and actuator system to provide remote operation. I made a few detailed sketches online to truly showcase the final design.
+I had finally finished my whole design concept, which consisted of a wearable backpack-mounted animatronic wing system powered by two 12V linear actuators. The mechanical system used PVC tubing, ABS mounting components, and linkage mechanisms to create controlled wing movement. The electrical system used a rechargeable 12V battery, wireless motor controller, and actuator system to provide remote operation. 
+
+Instead of using a simple hinge that would only allow the wings to move upward and downward, the linkage mechanism allowed the wings to fold, extend, and create a more natural movement pattern. The movement of the wings would be controlled using two 12V linear actuators mounted to the central structure. These actuators would convert electrical energy into mechanical movement by extending and retracting, with the linkage system translating this linear motion into the rotational movement needed for the wings. Both actuators would operate together to ensure that the left and right wings moved symmetrically.
+
+I made a few detailed sketches online to truly showcase the final design. These sketches focused on showing how the mechanical frame, actuators, and outer appearance of the wings would come together in a cleaner way than my paper ones. It took me about 3 hours to do, which sounds like a lot but considering I had to carefully recreate my design on a laptop using a mouse, I would say it is pretty believable. I tried to keep the design proportions as consistent as possible.
 
 <img width="3011" height="2370" alt="image" src="https://github.com/user-attachments/assets/96791c53-0d14-4234-916f-9a0e0fa12ec9" />
 
-These sketches took me around 3 hours to make.
+I also felt as though I wanted to add additional features to my design. I explored ways to make the wings more visually impressive and functional. These ideas included modifying the outer structure to create fuller plumage and experimenting with additional support rods to improve the shape of the wings.
 
-I also felt as though I wanted to add additional features to my design.
 <img width="864" height="555" alt="image" src="https://github.com/user-attachments/assets/a8c48657-1e41-4e30-a203-d4bd0fe7d041" />
 
 <img width="533" height="401" alt="image" src="https://github.com/user-attachments/assets/89aad141-6c0b-4cbd-9399-36e70967182a" />
 
-I made these two concepts, which I'm going to implement in real life if I get the time. I'm also going to be experimenting a lot more with the structure and general placement of the rods once I get my supplies. These took me about half an hour to do.
+I had to be very careful about the proportions on these, because I needed a balance between the pipes not being to tall and too short. If the pipes were too tall, it would be a general annoyance and hinder my ability to walk, but if they were too small, they would look pretty odd on me. I'm going to implement these designs in real life if I get the time. 
+
+I'm also going to be experimenting a lot more with the structure and general placement of the rods once I get my supplies. These took me about half an hour to do.
 
 
 
