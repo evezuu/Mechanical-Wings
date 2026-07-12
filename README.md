@@ -35,9 +35,9 @@ The build will begin by shaping and preparing the ABS mounting plate, which will
 
 After the frame is assembled, the linear actuators will be placed on the lowest left and right pipe of the actuator, allowing them to provide the force for the wings to flare out and retract. The placement of these connections will be adjusted during testing to ensure both wings move smoothly and evenly.
 
-The electrical components will then be mounted onto the frame and connected to the actuators. The wireless controller will allow the wings to be operated remotely.
+The electrical components will then be mounted onto the frame and connected to the actuators. Straps will be added to the ABS mounting plate to keep them in place. The wireless controller will allow the wings to be operated remotely.
 
-Once the mechanical and electrical systems are working correctly, the outer wing covering and decorative elements will be added. These will be tested carefully since additional weight can affect the movement and performance of the mechanism.
+Once the mechanical and electrical systems are working correctly, the outer wing covering and decorative elements will be added. A lot of feathers will be attached onto my frame using wire. These will be tested carefully since additional weight can affect the movement and performance of the mechanism.
 
 ## Additions I may add to this design.
 I am on a time constraint for this project, since I need it done before the 14th. However, I will try my best to incorporate some additional things in this design.
