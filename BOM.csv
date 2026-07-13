@@ -23,6 +23,4 @@ Item,Category,Quantity,Unit,Description,Supplier,Purchase Link,Price (USD), Tota
 "EVA Foam","Materials",1,"rolls of sheet","Foam used to detail wings and make some of the feathers","Amazon","https://a.co/d/0e4mGK3x","22.00", "22.00"
 "Fake Fur","Materials",1,"roll","Cover top of wingframe","Amazon","https://a.co/d/03CxPEVc","8.54", "8.54"
 "Black Wire","Materials",1,"roll","Decorative wire used to make the fake feathers look real","Amazon","https://a.co/d/08zWI0g2","9.99", "9.99"
-"Hot Glue Sticks","Materials",1,"pack","Hot glue used to stick the feathers onto the frame","Amazon","https://a.co/d/0fOBRJbB","5.97", "5.97"
 "Fabric Glue Stick","Materials",1,"stick","Fabric adhesive used to make feathers out of the cloth","Amazon","https://a.co/d/0i7PWCbK","6.23", "6.23"
-"Wood Glue","Materials",2,"bottles","General-purpose wood adhesive used to make feathers out of the cloth and stick the foam together","Amazon","https://a.co/d/0fOBRJbB","3.98", "7.96"
